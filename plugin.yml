@@ -1,0 +1,9 @@
+name: Teleport
+author: Fin/getQueryString
+version: 1.0
+main: main.main
+ 
+commands:
+  ts:
+  tp:
+    description: Teleportiere dich zu anderen Spielern.
